@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-fibonacci",
+  "version": "1.0.0",
+  "description": "Simple node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app/index.js",
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmarbach/nodejs-fibonacci.git"
+  },
+  "author": "Zach Marbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmarbach/nodejs-fibonacci/issues"
+  },
+  "homepage": "https://github.com/zmarbach/nodejs-fibonacci#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
